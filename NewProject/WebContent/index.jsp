@@ -8,5 +8,10 @@
 </head>
 <body>
 	<p>p1</p>
+	<ul>
+		<li>하나</li>
+		<li>두울</li>
+		<li>세엣</li>
+	</ul>
 </body>
 </html>
